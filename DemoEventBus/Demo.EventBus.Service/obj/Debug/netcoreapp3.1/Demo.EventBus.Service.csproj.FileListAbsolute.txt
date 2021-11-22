@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EventBus.Service.deps.json
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EventBus.Service.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EventBus.Service.pdb
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.csproj.CopyComplete
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.pdb

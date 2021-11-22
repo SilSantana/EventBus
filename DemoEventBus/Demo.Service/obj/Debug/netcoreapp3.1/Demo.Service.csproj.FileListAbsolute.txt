@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Service\bin\Debug\netcoreapp3.1\Demo.Service.deps.json
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Service\bin\Debug\netcoreapp3.1\Demo.Service.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Service\bin\Debug\netcoreapp3.1\Demo.Service.pdb
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Service\obj\Debug\netcoreapp3.1\Demo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Service\obj\Debug\netcoreapp3.1\Demo.Service.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Service\obj\Debug\netcoreapp3.1\Demo.Service.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Service\obj\Debug\netcoreapp3.1\Demo.Service.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Service\obj\Debug\netcoreapp3.1\Demo.Service.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Service\obj\Debug\netcoreapp3.1\Demo.Service.pdb

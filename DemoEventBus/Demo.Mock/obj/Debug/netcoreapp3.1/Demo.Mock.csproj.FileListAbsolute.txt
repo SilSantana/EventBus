@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.Mock.deps.json
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.Mock.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.Mock.pdb
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.pdb

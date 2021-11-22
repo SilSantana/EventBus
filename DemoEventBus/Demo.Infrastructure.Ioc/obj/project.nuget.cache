@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBobWidGcJsiNT/VWhT1aNYd/LMeagyp9J1QdNqLz+0/UL+q5h2UhjH7UvpFRD94so8Wx9QtHQzdI38grzKKgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Infrastructure.Ioc\\Demo.Infrastructure.Ioc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

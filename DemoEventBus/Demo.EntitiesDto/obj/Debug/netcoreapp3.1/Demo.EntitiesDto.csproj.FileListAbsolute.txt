@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.deps.json
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb

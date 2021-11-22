@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\bin\Debug\netcoreapp3.1\Demo.Test.deps.json
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\bin\Debug\netcoreapp3.1\Demo.Test.runtimeconfig.json
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\bin\Debug\netcoreapp3.1\Demo.Test.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\bin\Debug\netcoreapp3.1\Demo.Test.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\bin\Debug\netcoreapp3.1\Demo.Test.pdb
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\obj\Debug\netcoreapp3.1\Demo.Test.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\obj\Debug\netcoreapp3.1\Demo.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\obj\Debug\netcoreapp3.1\Demo.Test.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\obj\Debug\netcoreapp3.1\Demo.Test.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\obj\Debug\netcoreapp3.1\Demo.Test.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\obj\Debug\netcoreapp3.1\Demo.Test.dll
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\obj\Debug\netcoreapp3.1\Demo.Test.pdb
+C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Test\obj\Debug\netcoreapp3.1\Demo.Test.genruntimeconfig.cache
