@@ -35,7 +35,7 @@ namespace Demo.Api
 
             services.AddHealthChecks();
 
-            services.AddEventBus(_configuration);
+            //services.AddEventBus(_configuration);
 
         }
 
