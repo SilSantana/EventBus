@@ -7,3 +7,13 @@ C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.deps.json
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.csproj.AssemblyReference.cache
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.AssemblyInfoInputs.cache
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.AssemblyInfo.cs
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.csproj.CoreCompileInputs.cache
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
+C:\projetos\EventBus\DemoEventBus\Demo.EntitiesDto\obj\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb

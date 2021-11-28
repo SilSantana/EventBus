@@ -7,3 +7,12 @@ C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.dll
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.Mock.deps.json
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.Mock.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.Mock.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.AssemblyInfoInputs.cache
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.AssemblyInfo.cs
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.csproj.CoreCompileInputs.cache
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.pdb

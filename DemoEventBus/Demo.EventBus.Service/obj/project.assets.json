@@ -198,6 +198,9 @@
       "Demo.EntitiesDto/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
         "compile": {
           "bin/placeholder/Demo.EntitiesDto.dll": {}
         },

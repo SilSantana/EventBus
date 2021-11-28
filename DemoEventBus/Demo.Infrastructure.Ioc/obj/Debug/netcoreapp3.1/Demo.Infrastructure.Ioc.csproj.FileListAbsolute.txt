@@ -8,3 +8,13 @@ C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netco
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.dll
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.pdb
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.csproj.AssemblyReference.cache
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.deps.json
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.csproj.AssemblyReference.cache
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.AssemblyInfoInputs.cache
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.AssemblyInfo.cs
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.csproj.CoreCompileInputs.cache
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.pdb

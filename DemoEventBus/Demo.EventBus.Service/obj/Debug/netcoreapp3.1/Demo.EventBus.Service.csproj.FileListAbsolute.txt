@@ -11,3 +11,16 @@ C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcore
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.csproj.CopyComplete
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.dll
 C:\Users\Asus\Desktop\Demos\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EventBus.Service.deps.json
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EventBus.Service.dll
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EventBus.Service.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.csproj.AssemblyReference.cache
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.AssemblyInfoInputs.cache
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.AssemblyInfo.cs
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.csproj.CoreCompileInputs.cache
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.csproj.CopyComplete
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.dll
+C:\projetos\EventBus\DemoEventBus\Demo.EventBus.Service\obj\Debug\netcoreapp3.1\Demo.EventBus.Service.pdb
