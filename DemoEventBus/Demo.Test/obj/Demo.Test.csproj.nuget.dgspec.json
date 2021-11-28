@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Test\\Demo.Test.csproj": {}
+    "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Test\\Demo.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Test\\Demo.Test.csproj": {
+    "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Test\\Demo.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Test\\Demo.Test.csproj",
+        "projectUniqueName": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Test\\Demo.Test.csproj",
         "projectName": "Demo.Test",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Test\\Demo.Test.csproj",
+        "projectPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Test\\Demo.Test.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Test\\obj\\",
+        "outputPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

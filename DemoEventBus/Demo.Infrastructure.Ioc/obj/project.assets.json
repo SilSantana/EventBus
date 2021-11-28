@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Infrastructure.Ioc\\Demo.Infrastructure.Ioc.csproj",
+      "projectUniqueName": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Infrastructure.Ioc\\Demo.Infrastructure.Ioc.csproj",
       "projectName": "Demo.Infrastructure.Ioc",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Infrastructure.Ioc\\Demo.Infrastructure.Ioc.csproj",
+      "projectPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Infrastructure.Ioc\\Demo.Infrastructure.Ioc.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Infrastructure.Ioc\\obj\\",
+      "outputPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Infrastructure.Ioc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

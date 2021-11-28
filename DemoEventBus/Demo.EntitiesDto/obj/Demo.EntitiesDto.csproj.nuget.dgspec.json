@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj": {}
+    "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj": {
+    "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj",
+        "projectUniqueName": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj",
         "projectName": "Demo.EntitiesDto",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj",
+        "projectPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EntitiesDto\\obj\\",
+        "outputPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EntitiesDto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -630,11 +630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EventBus.Service\\Demo.EventBus.Service.csproj",
+      "projectUniqueName": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EventBus.Service\\Demo.EventBus.Service.csproj",
       "projectName": "Demo.EventBus.Service",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EventBus.Service\\Demo.EventBus.Service.csproj",
+      "projectPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EventBus.Service\\Demo.EventBus.Service.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EventBus.Service\\obj\\",
+      "outputPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EventBus.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -654,8 +654,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj"
+            "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj": {
+              "projectPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.EntitiesDto\\Demo.EntitiesDto.csproj"
             }
           }
         }

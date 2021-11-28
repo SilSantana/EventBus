@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Mock\\Demo.Mock.csproj": {}
+    "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Mock\\Demo.Mock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Mock\\Demo.Mock.csproj": {
+    "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Mock\\Demo.Mock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Mock\\Demo.Mock.csproj",
+        "projectUniqueName": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Mock\\Demo.Mock.csproj",
         "projectName": "Demo.Mock",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Mock\\Demo.Mock.csproj",
+        "projectPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Mock\\Demo.Mock.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Mock\\obj\\",
+        "outputPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Mock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Api.Repository\\Demo.Api.Repository.csproj": {}
+    "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Api.Repository\\Demo.Api.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Api.Repository\\Demo.Api.Repository.csproj": {
+    "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Api.Repository\\Demo.Api.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Api.Repository\\Demo.Api.Repository.csproj",
+        "projectUniqueName": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Api.Repository\\Demo.Api.Repository.csproj",
         "projectName": "Demo.Api.Repository",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Api.Repository\\Demo.Api.Repository.csproj",
+        "projectPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Api.Repository\\Demo.Api.Repository.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Demos\\DemoEventBus\\Demo.Api.Repository\\obj\\",
+        "outputPath": "C:\\projetos\\EventBus\\DemoEventBus\\Demo.Api.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
