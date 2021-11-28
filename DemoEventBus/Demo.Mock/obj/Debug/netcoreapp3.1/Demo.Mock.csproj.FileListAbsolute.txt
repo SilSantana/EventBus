@@ -16,3 +16,9 @@ C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.As
 C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.csproj.CoreCompileInputs.cache
 C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.dll
 C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.Api.Repository.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.Api.Repository.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.csproj.AssemblyReference.cache
+C:\projetos\EventBus\DemoEventBus\Demo.Mock\obj\Debug\netcoreapp3.1\Demo.Mock.csproj.CopyComplete

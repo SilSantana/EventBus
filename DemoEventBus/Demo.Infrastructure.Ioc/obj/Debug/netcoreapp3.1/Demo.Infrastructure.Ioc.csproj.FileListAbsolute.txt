@@ -18,3 +18,10 @@ C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.
 C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.csproj.CoreCompileInputs.cache
 C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.dll
 C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Demo.Api.Repository.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Demo.Mock.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Demo.Mock.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Demo.Api.Repository.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\Demo.Infrastructure.Ioc.csproj.CopyComplete

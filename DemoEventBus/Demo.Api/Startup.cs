@@ -1,5 +1,6 @@
 using Demo.Api.Extensions;
 using Demo.EventBus.Service.Extensions;
+using Demo.Infrastructure.Ioc.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -30,6 +31,8 @@ namespace Demo.Api
             services.AddControllers();
 
             services.AddSwagger();
+
+            services.AddCustomizedServices(_configuration);
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

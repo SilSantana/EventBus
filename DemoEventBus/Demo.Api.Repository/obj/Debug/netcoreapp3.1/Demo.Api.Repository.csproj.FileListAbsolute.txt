@@ -18,3 +18,6 @@ C:\projetos\EventBus\DemoEventBus\Demo.Api.Repository\obj\Debug\netcoreapp3.1\De
 C:\projetos\EventBus\DemoEventBus\Demo.Api.Repository\obj\Debug\netcoreapp3.1\Demo.Api.Repository.csproj.CoreCompileInputs.cache
 C:\projetos\EventBus\DemoEventBus\Demo.Api.Repository\obj\Debug\netcoreapp3.1\Demo.Api.Repository.dll
 C:\projetos\EventBus\DemoEventBus\Demo.Api.Repository\obj\Debug\netcoreapp3.1\Demo.Api.Repository.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Api.Repository\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.dll
+C:\projetos\EventBus\DemoEventBus\Demo.Api.Repository\bin\Debug\netcoreapp3.1\Demo.EntitiesDto.pdb
+C:\projetos\EventBus\DemoEventBus\Demo.Api.Repository\obj\Debug\netcoreapp3.1\Demo.Api.Repository.csproj.CopyComplete
