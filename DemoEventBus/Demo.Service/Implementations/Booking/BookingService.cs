@@ -7,5 +7,16 @@ namespace Demo.Service.Implementations.Booking
 {
     public class BookingService : IBookingService
     {
+
+
+        public BookingService()
+        {
+
+
+        }
+
+
+
+
     }
 }
